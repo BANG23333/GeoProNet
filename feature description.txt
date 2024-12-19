@@ -1,0 +1,9 @@
+features:(37)
+temporal  (15)
+[day, month, year, day of the week, day of year, is_holiday, is_weekend,"temperature_2m", "relative_humidity_2m", "dew_point_2m", "precipitation", "rain", "snowfall",  "wind_speed_10m", "wind_direction_10m"]
+
+spatial  (18)
+[residential, education facility, cultural facility, recreational facility,social services,transportation facility, commercial, government facility, religious institution,health services,public safety,water,miscellaneous,total number of roads,:total mileage, highway mileage , bridge count  , tunnel count.]
+
+spatial-temporal  (4)
+greentaxi_pick up volume    greentaxi_drop-off volume  yellowtaxi_pick up volume yellowtaxi_drop-off volume
